@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [lodash-deep (v2.0.0)](https://github.com/marklagendijk/lodash-deep)  [![npm package](https://img.shields.io/npm/v/npmtest-lodash-deep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lodash-deep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lodash-deep.svg)](https://travis-ci.org/npmtest/node-npmtest-lodash-deep)",
+    "description": "#### basic test coverage for  [lodash-deep (v2.0.0)](https://github.com/marklagendijk/lodash-deep)  [![npm package](https://img.shields.io/npm/v/npmtest-lodash-deep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lodash-deep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lodash-deep.svg)](https://travis-ci.org/npmtest/node-npmtest-lodash-deep)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "lodash-deep": "*",

@@ -1,6 +1,6 @@
 # npmtest-lodash-deep
 
-#### test coverage for  [lodash-deep (v2.0.0)](https://github.com/marklagendijk/lodash-deep)  [![npm package](https://img.shields.io/npm/v/npmtest-lodash-deep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lodash-deep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lodash-deep.svg)](https://travis-ci.org/npmtest/node-npmtest-lodash-deep)
+#### basic test coverage for  [lodash-deep (v2.0.0)](https://github.com/marklagendijk/lodash-deep)  [![npm package](https://img.shields.io/npm/v/npmtest-lodash-deep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lodash-deep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lodash-deep.svg)](https://travis-ci.org/npmtest/node-npmtest-lodash-deep)
 
 #### Lodash mixins for (deep) object accessing / manipulation.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-lodash-deep/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-lodash-deep/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-lodash-deep/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-lodash-deep/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-lodash-deep/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-lodash-deep/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-lodash-deep/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-lodash-deep/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-lodash-deep/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-lodash-deep/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-lodash-deep/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-lodash-deep/build/coverage.html/index.html)
 
@@ -92,7 +92,8 @@
     "scripts": {
         "test": "gulp test"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
